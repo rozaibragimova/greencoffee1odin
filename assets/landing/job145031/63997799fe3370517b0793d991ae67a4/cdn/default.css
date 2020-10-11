@@ -531,7 +531,7 @@ button:hover, button:focus, input[type=submit]:hover, input[type=submit]:focus {
 .logo {
     display: block;
     height: 50px;
-    background-image: url("urn:scrapbook:download:error:https://batareykavon.github.io/-Mmblog/a1-logo.png");
+    background-image: url("a1-logo.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 31px;
